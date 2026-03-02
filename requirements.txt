@@ -1,0 +1,27 @@
+# Core Python packages
+numpy
+pandas
+matplotlib
+seaborn
+Pillow
+opencv-python
+tqdm
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+
+# Machine Learning
+scikit-learn
+scikit-image
+
+# Image Processing
+albumentations
+
+# Jupyter
+jupyter
+ipykernel
+
+# Additional utilities
+jupyterlab
